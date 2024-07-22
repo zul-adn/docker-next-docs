@@ -57,8 +57,8 @@ export default function Home() {
             strokeWidth="2"
           >
             <path
-              stroke-linecap="round"
-              stroke-linejoin="round"
+              strokeLinecap="round"
+              strokeLinejoin="round"
               d="M4 8h16M4 16h16"
             />
           </svg>
